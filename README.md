@@ -65,27 +65,21 @@ Create `.env` or add variables to your hosting panel:
 
 ---
 
-## Commands
+### ALL COMMANDS
 
 ```
-/start       - Sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ
-/tutorial     - Sᴇᴇ ᴜsᴀɢᴇ ɢᴜɪᴅᴇ
-/viewthumb   - Vɪᴇᴡ ᴛʜᴜᴍʙɴᴀɪʟ
-/delthumb    - Dᴇʟᴇᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ
-/set_caption - Sᴇᴛ ʏᴏᴜʀ ᴏᴡɴ ᴄᴀᴘᴛɪᴏɴ
-/see_caption - Vɪᴇᴡ ʏᴏᴜʀ ᴄᴀᴘᴛɪᴏɴ
-/del_caption - Dᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴄᴀᴘᴛɪᴏɴ
-/setmedia    - Sᴇᴛ ᴏᴜᴛᴘᴜᴛ ғɪʟᴇ ᴛʏᴘᴇ
-/start_sequence - Sᴛᴀʀᴛ ғɪʟᴇ sᴇǫᴜᴇɴᴄɪɴɢ
-/end_sequence  - Eɴᴅ ғɪʟᴇ sᴇǫᴜᴇɴᴄɪɴɢ
-/metadata    - Vɪᴇᴡ ʏᴏᴜʀ ᴍᴇᴛᴀᴅᴀᴛᴀ
-
-(Aᴅᴍɪɴ ᴏɴʟʏ)
-/restart     - Rᴇsᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ
-/broadcast  - Bʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ
-/ban <id>    - Bᴀɴ ᴀ ᴜsᴇʀ
-/unban <id>  - Uɴʙᴀɴ ᴀ ᴜsᴇʀ
-/banned      - Sʜᴏᴡ ʙᴀɴɴᴇᴅ ᴜsᴇʀs
+start - Check if the bot is running.
+autorename - To auto rename your files.
+setmedia - To set your media type preference.
+tutorial - To know how to use me.
+viewthumb - To view current thumbnail.
+delthumb - To delete current thumbnail.
+set_caption - set a custom caption.
+see_caption - see your custom caption.
+del_caption - delete custom caption.
+restart - To restart the bot [FOR ADMINS USE ONLY]
+broadcast - Message Broadcast command [FOR ADMINS USE ONLY].
+status - Check bot status [FOR ADMINS USE ONLY].
 ```
 
 
