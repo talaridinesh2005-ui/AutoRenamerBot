@@ -1,4 +1,4 @@
-![1](https://iili.io/F1uWoQf.md.jpg)
+![1](https://envs.sh/8ue.jpg)
 
 <h2 align="center">
   ─「Aᴜᴛᴏ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ」─
