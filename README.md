@@ -5,7 +5,7 @@
 </h2>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tʜɪs+ɪs+ᴀ+ᴀᴜᴛᴏ+ʀᴇɴᴀᴍᴇʀ+ʙᴏᴛ!+ᴡɪᴛʜ;ᴀᴅᴠᴀɴᴄᴇ+ғᴇᴀᴛᴜʀᴇs;ᴄʀᴇᴀᴛᴇᴅ+ʙʏ+Bᴏᴛs+ᴋɪɴɢᴅᴏᴍ+Tᴇᴀᴍ!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tʜɪs+ɪs+ᴀ+ᴀᴜᴛᴏ+ʀᴇɴᴀᴍᴇʀ+ʙᴏᴛ!+ᴡɪᴛʜ;ᴀᴅᴠᴀɴᴄᴇ+ғᴇᴀᴛᴜʀᴇs;ᴄʀᴇᴀᴛᴇᴅ+ʙʏ+Bᴏᴛs+ᴋɪɴɢᴅᴏᴍ+Tᴇᴀᴍ!+[ʀᴏʜɪᴛ])</p>
 </p>
 
 ## Features
@@ -21,6 +21,9 @@
   - [x] 𝑩𝒂𝒏 𝒂𝒏𝒅 𝒖𝒏𝒃𝒂𝒏 𝒔𝒚𝒔𝒕𝒆𝒎.
 
 ---
+#### Demo Bot:  
+<a href="https://telegram.me/BK_RENAMER"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+
 
 ##  Environmental Variables 
 
