@@ -44,12 +44,12 @@ async def start(client, message: Message):
     await asyncio.sleep(0.5)
     await m.edit_text("⚡")
     await asyncio.sleep(0.5)
-    await m.edit_text("**Iᴀᴍ sᴛᴀʀᴛɪɴɢ...!!**")
+    await m.edit_text("**Iᴀᴍ sᴛᴀʀᴛɪɴɢ ʟᴇᴛ's ɢᴏᴏ...!!**")
     await asyncio.sleep(0.4)
     await m.delete()
 
     # Send sticker after the text sequence
-    await message.reply_sticker("CAACAgUAAxkBAAEOtVNoUAphgIzDsgHV10rbfmFKNIgMlwACPQsAApWaqVbHL7SvWBBaITYE")
+    await message.reply_sticker("CAACAgUAAxkBAAEPn3do-gABMib6el8kFWxx3wL4E8ylHuwAAmgWAAIRyIhXVO_zT5gOvWA2BA")
 
     # Define buttons for the start message
     buttons = InlineKeyboardMarkup([
