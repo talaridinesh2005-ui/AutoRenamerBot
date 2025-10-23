@@ -38,15 +38,15 @@ class Txt(object):
 ➲ ᴇᴘɪꜱᴏᴅᴇ - ᴛᴏ ʀᴇᴘʟᴀᴄᴇ ᴇᴘɪꜱᴏᴅᴇ ɴᴜᴍʙᴇʀ
 ➲ ǫᴜᴀʟɪᴛʏ - ᴛᴏ ʀᴇᴘʟᴀᴄᴇ ǫᴜᴀʟɪᴛʏ
 
-<b>‣ ꜰᴏʀ ᴇx:- </b> <code> /autorename Your Anime Name Here [S01 - EPepisode - [Quality]  [Dual] @Seishiro_atanime </code>
+<b>‣ ꜰᴏʀ ᴇx:- </b> <code> /autorename Your Anime Name Here [S01 - EPepisode - [Quality]  [Dual] @BotsKingdoms </code>
 
 <b>‣ /Autorename: ʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ᴍᴇᴅɪᴀ ꜰɪʟᴇꜱ ʙʏ ɪɴᴄʟᴜᴅɪɴɢ 'ᴇᴘɪꜱᴏᴅᴇ' ᴀɴᴅ 'ǫᴜᴀʟɪᴛʏ' ᴠᴀʀɪᴀʙʟᴇꜱ ɪɴ ʏᴏᴜʀ ᴛᴇxᴛ, ᴛᴏ ᴇxᴛʀᴀᴄᴛ ᴇᴘɪꜱᴏᴅᴇ ᴀɴᴅ ǫᴜᴀʟɪᴛʏ ᴘʀᴇꜱᴇɴᴛ ɪɴ ᴛʜᴇ ᴏʀɪɢɪɴᴀʟ ꜰɪʟᴇɴᴀᴍᴇ. """
     
     ABOUT_TXT = f"""<b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/bot_kingdoms_auto_renamerbot">ᴀᴜᴛᴏ ʀᴇɴᴀᴍᴇ</a>
-❍ ᴅᴇᴠᴇʟᴏᴩᴇʀ : <a href="https://t.me/seishiro_atanime">Seishiro</a>
+❍ ᴅᴇᴠᴇʟᴏᴩᴇʀ : <a href="https://t.me/ROHITREDDY69">ʀᴏʜɪᴛ</a>
 ❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
-❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/botskingdoms">error...Not found...</a>
+❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://github.com/BOTSKINGDOMS/Auto-Renamer-bot.git">ʀᴇᴘᴏ</a>
 ❍ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/botskingdoms">Bᴏᴛs Kɪɴɢᴅᴏᴍ</a>
 
 ➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ.</b>"""
