@@ -22,7 +22,7 @@
 
 ---
 #### Demo Bot:  
-<a href="https://telegram.me/BK_RENAMER"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="http://t.me/BK_RENAMER_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 
 ##  Environmental Variables 
