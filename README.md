@@ -89,9 +89,9 @@ status - Check bot status [FOR ADMINS USE ONLY].
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[Cᴏᴅᴇғʟɪx](https://t.me/CodeFlix_Bots) ➻ [Sᴘᴇᴄɪᴀʟ ᴛʜx ᴛᴏ ᴄᴏᴅᴇғʟɪx ғᴏʀ ʙᴀsᴇ ʀᴇᴘᴏ]</b>
-- <b>[Sᴇɪsʜɪʀᴏ](https://github.com/•_•)  ➻  [Rᴇ ᴡʀɪᴛᴇ ᴄᴏᴅᴇs ᴀɴᴅ ᴀᴅᴅ ғᴇᴀᴛᴜʀᴇs] </b>
-- <b>[Mᴀsᴛᴇʀ](https://github.com/•_•)  ➻  [Aᴅᴅ ғᴇᴀᴛᴜʀᴇs ᴀɴᴅ ғɪx ʙᴜɢs] </b>
+- <b>[ᴘʀɪᴍᴇ ᴀɴɪᴍᴇ ᴡᴀᴛᴄʜᴇʀ](https://t.me/GODOFANIME143) ➻ [Sᴘᴇᴄɪᴀʟ ᴛʜx ᴛᴏ ᴘʀɪᴍᴇ ᴀɴɪᴍᴇ ᴡᴀᴛᴄʜᴇʀ ғᴏʀ ʙᴀsᴇ ʀᴇᴘᴏ]</b>
+- <b>[ʟᴇɢᴇɴᴅ ʀᴏʜɪᴛ](https://t.me/ROHITREDDY69)  ➻  [Rᴇ ᴡʀɪᴛᴇ ᴄᴏᴅᴇs ᴀɴᴅ ᴀᴅᴅ ғᴇᴀᴛᴜʀᴇs] </b>
+- <b>[ʀᴀᴋᴇsʜ](https://t.me/RakeshSR1)  ➻  [Aᴅᴅ ғᴇᴀᴛᴜʀᴇs ᴀɴᴅ ғɪx ʙᴜɢs] </b>
 
  
 - <b>Bʏ - [Bᴏᴛs ᴋɪɴɢᴅᴏᴍ Tᴇᴀᴍ](https://t.me/botskingdom) </b>
