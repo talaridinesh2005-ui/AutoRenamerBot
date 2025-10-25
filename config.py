@@ -99,7 +99,9 @@ class Txt(object):
 
 ➲ /autorename: ᴀᴜᴛᴏ ʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ꜰɪʟᴇꜱ.
 ➲ /metadata: ᴄᴏᴍᴍᴀɴᴅꜱ ᴛᴏ ᴛᴜʀɴ ᴏɴ ᴏғғ ᴍᴇᴛᴀᴅᴀᴛᴀ.
-➲ /help: ɢᴇᴛ ǫᴜɪᴄᴋ ᴀꜱꜱɪꜱᴛᴀɴᴄᴇ. @BOTSKINGDOMS</b>"""
+➲ /help: ɢᴇᴛ ǫᴜɪᴄᴋ ᴀꜱꜱɪꜱᴛᴀɴᴄᴇ. @BOTSKINGDOMS
+
+💫 <b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ:</b> <a href='https://t.me/BOTSKINGDOMS'>𝐁𝐎𝐓𝐒𝐊𝐈𝐍𝐆𝐃𝐎𝐌𝐒</a> ⚙️</b>"""</b>"""
 
 SEND_METADATA = """
 <b>--Metadata Settings:--</b>
