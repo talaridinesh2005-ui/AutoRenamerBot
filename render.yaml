@@ -1,11 +1,11 @@
 services:
   - type: web
     plan: free
-    name: auto-rename-bot
+    name: AutoRenamerBot
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
-    repo: https://github.com/BOTSKINGDOMS/Auto-Renamer-bot.git
+    repo: https://github.com/talaridinesh2005-ui/AutoRenamerBot/tree/main.git
     branch: main
     autoDeploy: false
     envVars:
