@@ -55,8 +55,9 @@ Create `.env` or add variables to your hosting panel:
     ─「 ᴅᴇᴘʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ  ʀᴇɴᴅᴇʀ 」─
+<a href="https://render.com/deploy">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 </h3>
 
 <h3 align="center">
